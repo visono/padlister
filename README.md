@@ -1,0 +1,4 @@
+padlister
+=========
+
+Lists all etherpads
