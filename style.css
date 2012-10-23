@@ -1,0 +1,44 @@
+body, html{
+	margin: 50px;
+	padding: 0px;
+}
+a{
+	color: #00f;
+	text-decoration: none;
+}
+a.deletor{
+	color: #f00;
+}
+
+table, tr{
+	margin: 0px;
+	padding: 0px;
+}
+td, th{	
+	padding: 5px;
+	vertical-align: top;
+	text-align: left;
+}
+
+
+
+#silentLink{
+	display: none;
+}
+.deletor img{
+	height: 20px;
+}
+
+#addpad{
+	cursor: pointer;
+}
+
+#order{
+	font-size: 0.8em;
+	margin: 2px 0px;
+}
+
+ul{
+	margin: 0px;
+	padding: 0px;
+}
