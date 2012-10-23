@@ -4,7 +4,7 @@
  *	_______________
  *	@version 1.2
  *	@author René Woltmann
- *	@copyright Visono GmbH 2011
+ *	@copyright Visono GmbH 2012
  *
  *	Dieses kleine Script listet alle bestehenden Pads auf.
  *	Es verbindet sich mit der SQLite Datenbank, die auch das Etherpad benutzt.
